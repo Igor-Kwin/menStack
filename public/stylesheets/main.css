@@ -1,0 +1,27 @@
+body {
+  background: url('../img/camp.jpg') no-repeat fixed;
+  
+}
+.btn{
+   margin: 5px auto;
+}
+.jumbotron{
+  width: 30% !important;
+  margin: 20px auto;
+}
+.index{
+    width: 60% !important;
+  margin: 20px auto;
+}
+.label{
+  margin:20px;
+  padding:20px;
+}
+.panel{
+   width: 40%;
+    margin: 20px auto;
+}
+.thumbnail{
+    width:100%;
+  margin: 0px auto;
+}
